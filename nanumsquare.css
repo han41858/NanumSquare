@@ -2,9 +2,9 @@
  * Nanum Square Web Fonts
  * Copyright (c) 2010, NAVER Corporation (http://www.nhncorp.com) 
  */
- 
+
 @font-face {
-  font-family: 'Nanum Square';
+  font-family: 'NanumSquareR';
   font-style: normal;
   font-weight: 400;
   src: url(./NanumSquareR.eot);
@@ -17,8 +17,8 @@
 }
 
 @font-face {
-  font-family: 'Nanum Square';
-  font-style: bold;
+  font-family: 'NanumSquareB';
+  font-style: normal;
   font-weight: 700;
   src: url(./NanumSquareB.eot);
   src: local('Nanum Square Bold'),
