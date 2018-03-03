@@ -32,6 +32,9 @@ body {
 }
 ```
 
+## Demo
+[Demo Page](./demo.html)
+
 ## License
 
 Copyright (c) 2010, NAVER Corporation (http://www.nhncorp.com)
