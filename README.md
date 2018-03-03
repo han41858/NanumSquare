@@ -33,7 +33,7 @@ body {
 ```
 
 ## Demo
-[Demo Page](./demo.html)
+[Demo Page](https://htmlpreview.github.io/?https://github.com/han41858/NanumSquare/blob/master/demo.html)
 
 ## License
 
